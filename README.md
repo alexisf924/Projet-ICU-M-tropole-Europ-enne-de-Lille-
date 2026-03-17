@@ -9,4 +9,7 @@ Python file containing statistics on the percentage distribution of major land-u
 
  CLC12_LILLE_59000.py
 
+  Python script for calculating the percentage of major classes in the Corine Land Cover 2012 dataset for the municipality of Roubaix 
+  
+
  
