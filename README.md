@@ -5,4 +5,5 @@ Python file containing percentage statistics on major land-use categories from t
 
  CLC-12_59Percentage.py 
 
+Python file containing statistics on the percentage distribution of major land-use categories from the 2012 CORINE Land Cover dataset for the city of Lille
  
